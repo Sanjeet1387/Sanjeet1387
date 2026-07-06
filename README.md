@@ -67,7 +67,7 @@ A full-stack e-commerce platform that delivers a complete online shopping experi
 
 #### 🔗 Links
 
-- <a href="https://cart-orbit.vercel.app/auth/login">🌐 Live Demo</a>
+- <a href="https://cart-orbit.vercel.app/">🌐 Live Demo</a>
 - <a href="https://github.com/Sanjeet1387/cart-orbit-mern">📂 Repository</a>
 
 ---
